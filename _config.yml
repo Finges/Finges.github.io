@@ -11,11 +11,11 @@ owner:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          chris@mastertheglow.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/MastertheGlow
-  facebook:       https://www.facebook.com/MasterTheGlow
-  github:         https://github.com/finges
+  twitter:        MastertheGlow
+  facebook:       MasterTheGlow
+  github:         Finges
   stackexchange:  
-  linkedin:       https://www.linkedin.com/profile/view?id=18639109
+  linkedin:       finges
   instagram:      
   flickr:         
   tumblr:         
